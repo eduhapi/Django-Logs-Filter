@@ -1,4 +1,4 @@
-To continue with the installation steps for the `LogFilter` Django application on the `eduhapi` GitHub profile, follow these instructions:
+Installation steps for the `LogFilter` Django application  follow these instructions:
 
 ![Screenshot](docs/log-filter.PNG)
 
